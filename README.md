@@ -1,4 +1,4 @@
-# Cross-Modal-Knowledge-Transfer-Project
+# Cross-Modal Knowledge Transfer for Learning Systemst
 IITB EdTech Internship 2025 with DYPCET
 Track 1 - Educational Data Analysis (EDA)
 
